@@ -116,5 +116,5 @@ Contact
 Name: Himanshi Baherwani 
 
 Date: October 27, 2025
-Institution: Your Institution Name
+Institution: NMIMS indore
 Course: Natural Language Processing
